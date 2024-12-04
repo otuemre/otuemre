@@ -4,8 +4,9 @@
 
 - 👀 **I’m interested in:**  
   - Artificial Intelligence and Machine Learning  
-  - Web Development and Software Engineering  
-  - Learning new technologies and solving challenging problems  
+  - Web Development and Software Engineering
+  - Data Structures & Algorithms
+  - Learning new technologies and solving challenging problems
 
 - 🌱 **I’m currently learning:**  
   - Advanced machine learning techniques and frameworks  (TensorFlow, Scikit-Learn, etc.)
@@ -15,14 +16,13 @@
 - 💞️ **I’m working on:**  
   - A group project to create a website as part of my second-year Computer Science studies  
   - Machine learning projects for my portfolio  
+  - A Data Structures & Algorithms project to cover essential concepts with practical implementations  
 
 - 📫 **How to reach me:**  
   - GitHub: [@otuemre](https://github.com/otuemre)  
   - LinkedIn: [emreotu](https://www.linkedin.com/in/emreotu)
   - LeetCode: [emreotu](https://leetcode.com/u/emreotu/)
   - Email: [dev.emre17@gmail.com](mailto:dev.emre17@gmail.com)  
-
-- 😄 **Pronouns:** He/Him  
 
 - ⚡ **Fun fact:** I combined my love for coding and mathematics to create a simple neural network framework from scratch, inspired by TensorFlow. Always striving for the next big challenge!  
 
